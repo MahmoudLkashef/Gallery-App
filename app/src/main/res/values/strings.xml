@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BostaTask</string>
+    <string name="profile">Profile</string>
+    <string name="my_albums">My Albums</string>
+    <string name="share_button">share button</string>
+    <string name="share_icon">share icon</string>
+</resources>
